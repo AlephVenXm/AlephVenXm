@@ -25,6 +25,7 @@
 <code><text font-size="100">Platforms, libraries I'm working with</text></code>
 </div>
 
+
 <div align="center">
 
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
