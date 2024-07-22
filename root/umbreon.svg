@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         root {
-          background: None;
+          background: #00000000 no-repeat url(umbreon_hover.png) center;
           background-position: center;
 	  transition: background 200ms ease;
         }
