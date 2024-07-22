@@ -2,12 +2,12 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        root {
-          background: #00000000 no-repeat url(umbreon_hover.png) center;
+        .container {
+          background: None;
           background-position: center;
 	  transition: background 200ms ease;
         }
-        root:hover {
+        .container:hover {
           background: #00000000 no-repeat url(umbreon_hover.png) center;
           background-position: center;
         }
