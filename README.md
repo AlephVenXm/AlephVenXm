@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="800" height="450" alt="readme">
+    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="800" height="420" alt="readme">
 </div>
 
 ## I'm 16 y.o. from Russia
