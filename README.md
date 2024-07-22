@@ -26,3 +26,13 @@
 <code><img width="55" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Lua" title="Lua"/></code>
 
 </div>
+
+# Platforms, libraries i'm working with
+
+<div align="right">
+
+<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
+<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/File_Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow"/></code>
+<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="PyTorch" title="PyTorch"/></code>
+
+</div>
