@@ -1,16 +1,12 @@
-## Hi there 👋
+# <--- this preson is Aleph
 
-<!--
-**AlephVenXm/AlephVenXm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs and etc.)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages I know/use/used/know where they'll have better perfomance
+<div>
+  
+  |JavaScript|CSS|HTML| |C|C++|Fortran| |Java| |Rust| |Python|Mojo| |Assembler| |Lua|
+  |----------|---|----| |-|---|-------| |----| |----| |------|----| |---------| |---|
+  |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/> |
+  
+</div>
