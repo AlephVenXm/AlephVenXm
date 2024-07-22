@@ -21,9 +21,9 @@
 
 </div>
 
-<div align="center" font-size="100">
+<bold align="center">
     Platforms, libraries i'm working with
-</div>
+</bold>
 
 <div align="center">
 
