@@ -22,10 +22,8 @@
 </div>
 
 <div align="center">
-    Aleph
+    # Platforms, libraries i'm working with
 </div>
-
-# Platforms, libraries i'm working with
 
 <div align="center">
 
