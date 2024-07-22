@@ -25,10 +25,10 @@
 
 # Platforms, libraries i'm working with
 
-<div align="left">
+<div align="center">
 
-<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
-<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/google-tensorflow-icon.png" alt="TensorFlow" title="TensorFlow"/></code>
-<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="PyTorch" title="PyTorch"/></code>
+<code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
+<code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/google-tensorflow-icon.png" alt="TensorFlow" title="TensorFlow"/></code>
+<code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="PyTorch" title="PyTorch"/></code>
 
 </div>
