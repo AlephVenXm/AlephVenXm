@@ -15,7 +15,7 @@
   </defs>
 
   <!-- Draw the hollow circle in the center -->
-  <circle cx="450" cy="450" r="360" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
+  <circle cx="450" cy="400" r="360" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
 
   <!-- Add the big text "Aleph" in the center of the circle -->
   <text x="450" y="450" font-size="200" text-anchor="middle" fill="url(#flameGradient)">
