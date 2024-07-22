@@ -23,7 +23,7 @@
   </text>
 
   <!-- Add the text "About Me" in the left bottom corner -->
-  <text x="10" y="760" font-size="100" fill="url(#flameGradient)">
+  <text x="10" y="860" font-size="100" fill="url(#flameGradient)">
     About Me
   </text>
 </svg>
