@@ -1,7 +1,5 @@
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/arrow.png" title="Arrow"  alt="Arrow" width="300" height="60"/> <h1> This person is Aleph </h1> 
-
 <div align="center">
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="400" height="400" alt="readme">
+    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="600" height="400" alt="readme">
 </div>
 
 I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs and etc.). Also, I'm making some researches on ASI and self-adaptive algorithms
