@@ -8,20 +8,6 @@ I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs an
 
 <span style="font-size:0.5px;"> Languages I know/use/used/know where they'll have better perfomance </span>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran"  alt="Fortran" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/%F0%9F%94%A5.png" title="Mojo"  alt="Mojo" width="60" height="60"/>
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/asm86.png" title="Assembler"  alt="Assembler" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="60" height="60"/>
-
-
 <div align="center">
 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -34,7 +20,5 @@ I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs an
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png" alt="Fortran" title="Fortran"/></code>
-
-</div>
 
 </div>
