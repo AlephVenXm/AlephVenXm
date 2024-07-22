@@ -5,6 +5,7 @@
         root {
           background: None;
           background-position: center;
+	  transition: background 200ms ease;
         }
         root:hover {
           background: #00000000 no-repeat url(umbreon_hover.png) center;
