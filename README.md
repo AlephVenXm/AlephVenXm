@@ -15,7 +15,7 @@ I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs an
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>
 <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/%F0%9F%94%A5.png" title="Mojo"  alt="Mojo" width="60" height="60"/>
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/asm.png" title="Assembler"  alt="Assembler" width="60" height="60"/>
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/asm86.png" title="Assembler"  alt="Assembler" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="60" height="60"/>
   
 </div>
