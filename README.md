@@ -1,4 +1,4 @@
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/arrow.png" title="Arrow"  alt="Arrow" width="120" height="60"/> # this preson is Aleph 
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/arrow.png" title="Arrow"  alt="Arrow" width="120" height="60"/> <h1> TXT <h1/> 
 
 I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs and etc.). Also, I'm making some researches on ASI and self-adaptive algorithms
 
