@@ -1,0 +1,29 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the flame gradient animation -->
+  <defs>
+    <linearGradient id="flameGradient">
+      <stop offset="0%" stop-color="red">
+        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="20s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="orange">
+        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="20s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="yellow">
+        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="20s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Draw the hollow circle in the center -->
+  <circle cx="300" cy="200" r="100" stroke="url(#flameGradient)" stroke-width="10" fill="none" />
+
+  <!-- Add the big text "Aleph" in the center of the circle -->
+  <text x="300" y="210" font-size="50" text-anchor="middle" fill="url(#flameGradient)">
+    Aleph
+  </text>
+
+  <!-- Add the text "About Me" in the left bottom corner -->
+  <text x="10" y="390" font-size="20" fill="url(#flameGradient)">
+    About Me
+  </text>
+</svg>
