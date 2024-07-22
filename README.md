@@ -21,9 +21,8 @@
 
 </div>
 
-<bold align="center">
-    Platforms, libraries i'm working with
-</bold>
+<span style="font-size:2.0em;">123</span>
+
 
 <div align="center">
 
