@@ -1,4 +1,4 @@
-<svg width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
   <!-- Define the flame gradient animation -->
   <defs>
     <linearGradient id="flameGradient">
@@ -15,15 +15,15 @@
   </defs>
 
   <!-- Draw the hollow circle in the center -->
-  <circle cx="450" cy="300" r="220" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
+  <circle cx="300" cy="300" r="220" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
 
   <!-- Add the big text "Aleph" in the center of the circle -->
-  <text x="450" y="330" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
+  <text x="300" y="330" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
     Aleph
   </text>
 
   <!-- Add the text "About Me" in the left bottom corner -->
-  <text x="10" y="890" font-size="70" fill="url(#flameGradient)">
+  <text x="10" y="590" font-size="70" fill="url(#flameGradient)">
     About Me
   </text>
 </svg>
