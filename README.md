@@ -4,7 +4,7 @@
 
 <div align="center">
     
-<code><text font-size="100">I know/use/used/know where they'll have better perfomance:</text></code>
+<code><text font-size="1000">I know/use/used/know where they'll have better perfomance</text></code>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
     
-<code><text font-size="100">Platforms, libraries I'm working with</text></code>
+<code><text font-size="1000">Platforms, libraries I'm working with</text></code>
 
 </div>
 
