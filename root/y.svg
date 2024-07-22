@@ -18,7 +18,7 @@
   <circle cx="450" cy="300" r="220" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
 
   <!-- Add the big text "Aleph" in the center of the circle -->
-  <text x="450" y="430" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
+  <text x="450" y="320" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
     Aleph
   </text>
 
