@@ -3,13 +3,13 @@
   <defs>
     <linearGradient id="flameGradient">
       <stop offset="0%" stop-color="red">
-        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="20s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="12s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="orange">
-        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="20s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="12s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="yellow">
-        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="20s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="12s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
