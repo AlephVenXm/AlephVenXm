@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    Platforms, libraries I'm working with:
+<code><text font-size="100">123</text></code>
 </div>
 
 <div align="center">
