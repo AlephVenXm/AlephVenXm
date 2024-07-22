@@ -25,7 +25,7 @@
 
 # Platforms, libraries i'm working with
 
-<div align="center">
+<div align="left">
 
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/google-tensorflow-icon.png" alt="TensorFlow" title="TensorFlow"/></code>
