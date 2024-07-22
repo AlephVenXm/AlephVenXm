@@ -22,7 +22,7 @@
 </div>
 
 <text font-size:20 font-family="Unbounded">
-    123
+    Aleph
 </text>
 
 # Platforms, libraries i'm working with
