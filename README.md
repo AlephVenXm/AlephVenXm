@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<code><text font-size="100">123</text></code>
+<code><text font-size="100">Platforms, libraries I'm working with</text></code>
 </div>
 
 <div align="center">
