@@ -21,9 +21,9 @@
 
 </div>
 
-<text align="center">
+<div align="center">
     Aleph
-</text>
+</div>
 
 # Platforms, libraries i'm working with
 
