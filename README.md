@@ -2,7 +2,11 @@
     <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="800" height="420" alt="readme">
 </div>
 
-# I know/use/used/know where they'll have better perfomance:
+<div align="center">
+    
+<code><text font-size="100">I know/use/used/know where they'll have better perfomance:</text></code>
+
+</div>
 
 <div align="center">
 
@@ -26,7 +30,6 @@
 <code><text font-size="100">Platforms, libraries I'm working with</text></code>
 
 </div>
-
 
 <div align="center">
 
