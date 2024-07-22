@@ -21,7 +21,7 @@
 
 </div>
 
-<text font-size:100 font-family="Unbounded">
+<text align="center">
     Aleph
 </text>
 
