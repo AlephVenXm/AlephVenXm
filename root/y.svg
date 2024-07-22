@@ -18,12 +18,12 @@
   <circle cx="300" cy="270" r="220" stroke="url(#flameGradient)" stroke-width="20" fill="none" />
 
   <!-- Add the big text "Aleph" in the center of the circle -->
-  <text x="300" y="300" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
+  <text x="300" y="300" font-size="130" font-family: Geneva text-anchor="middle" fill="url(#flameGradient)">
     Aleph
   </text>
 
   <!-- Add the text "About Me" in the left bottom corner -->
-  <text x="10" y="590" font-size="70" fill="url(#flameGradient)">
+  <text x="10" y="590" font-size="70" font-family: Geneva fill="url(#flameGradient)">
     About Me
   </text>
 </svg>
