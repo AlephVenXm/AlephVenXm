@@ -1,10 +1,10 @@
-<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/arrow.png" title="Arrow"  alt="Arrow" width="120" height="60"/> <span style="font-size:1000.0em;"> this preson is Aleph </span>
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/arrow.png" title="Arrow"  alt="Arrow" width="120" height="60"/> # <span style="font-size:1.0em;"> this preson is Aleph </span>
 
 I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs and etc.). Also, I'm making some researches on ASI and self-adaptive algorithms
 
 <div>
 
-<span style="font-size:0.5px; color:#FFD700FF;"> Languages I know/use/used/know where they'll have better perfomance </span>
+<span style="font-size:0.5px;"> Languages I know/use/used/know where they'll have better perfomance </span>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="60" height="60"/>
