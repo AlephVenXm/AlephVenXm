@@ -21,8 +21,8 @@
 
 </div>
 
-<div align="center">
-    # Platforms, libraries i'm working with
+<div align="center" font-size="100">
+    Platforms, libraries i'm working with
 </div>
 
 <div align="center">
