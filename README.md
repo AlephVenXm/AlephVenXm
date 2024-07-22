@@ -2,7 +2,11 @@
     <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="800" height="450" alt="readme">
 </div>
 
-I'm 16 y.o. from Russia. I'm studying AI and robots (their construction, SoCs and etc.). Also, I'm making some researches on ASI and self-adaptive algorithms
+## I'm 16 y.o. from Russia
+
+## I'm studying AI and robots (their construction, SoCs and etc.)
+
+## Also, I'm making some researches on ASI and self-adaptive algorithms
 
 # I know/use/used/know where they'll have better perfomance:
 
