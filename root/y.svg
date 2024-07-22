@@ -13,7 +13,7 @@
     </linearGradient>
   </defs>
 
-  <text x="10" y="10" font-size="130" text-anchor="middle" fill="url(#flameGradient)">
+  <text x="10" y="10" font-size="130" fill="url(#flameGradient)">
     Aleph
   </text>
 
