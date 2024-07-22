@@ -3,20 +3,20 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 		                .container {
-		                    background-image: url(root/umbreon.png);
+		                    background-image: url(umbreon.png);
 		                    width: 564px;
 		                    height: 676px;
 		                    opacity: 0.0;
 		                    transition: opacity 200ms ease;
 				}
 				.container:hover {
-		                    background-image: url(root/umbreon_hover.png);
+		                    background-image: url(umbreon_hover.png);
 		                    width: 564px;
 		                    height: 676px;
 		                    opacity: 1.0;
 				}
 			</style>
-            <div class="container"> </div>
+            	     	<div class="container"> </div>
 		</div>
 	</foreignObject>
 </svg>
