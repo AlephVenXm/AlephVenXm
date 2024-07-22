@@ -2,22 +2,22 @@
   <defs>
     <linearGradient id="flameGradient">
       <stop offset="0%" stop-color="red">
-        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="4s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="orange">
-        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="4s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="yellow">
-        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="12s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="4s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
 
-  <text x="10" y="150" font-size="200" fill="url(#flameGradient)">
+  <text x="10" y="150" font-size="200" font-family="Unbounded" fill="url(#flameGradient)">
     Aleph
   </text>
 
-  <text x="10" y="250" font-size="70" fill="url(#flameGradient)">
+  <text x="10" y="250" font-size="70" font-family="Unbounded" fill="url(#flameGradient)">
     About Me
   </text>
 </svg>
