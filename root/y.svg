@@ -13,11 +13,11 @@
     </linearGradient>
   </defs>
 
-  <text x="10" y="100" font-size="130" fill="url(#flameGradient)">
+  <text x="10" y="150" font-size="200" fill="url(#flameGradient)">
     Aleph
   </text>
 
-  <text x="10" y="190" font-size="70" fill="url(#flameGradient)">
+  <text x="10" y="250" font-size="70" fill="url(#flameGradient)">
     About Me
   </text>
 </svg>
