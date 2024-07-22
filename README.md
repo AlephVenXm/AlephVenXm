@@ -32,7 +32,7 @@
 <div align="right">
 
 <code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/2048px-Keras_logo.svg.png" alt="Keras" title="Keras"/></code>
-<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/File_Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow"/></code>
+<code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/google-tensorflow-icon.png" alt="TensorFlow" title="TensorFlow"/></code>
 <code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="PyTorch" title="PyTorch"/></code>
 
 </div>
