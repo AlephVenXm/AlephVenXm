@@ -1,11 +1,9 @@
 <div align="center">
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/y.svg" width="800" height="420" alt="readme">
+    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/head_0.svg" width="800" height="420" alt="head">
 </div>
 
 <div align="center">
-    
-<code><text>I know/use/used/know where they'll have better perfomance</text></code>
-
+    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_1.svg" width="800" height="420" alt="std">
 </div>
 
 <div align="center">
@@ -24,11 +22,9 @@
 <code><img width="55" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Lua" title="Lua"/></code>
 
 </div>
-
-<div align="center">
     
-<code><text>Platforms, libraries I'm working with</text></code>
-
+<div align="center">
+    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_2.svg" width="800" height="420" alt="std">
 </div>
 
 <div align="center">
