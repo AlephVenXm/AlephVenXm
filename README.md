@@ -1,10 +1,12 @@
 <div align="center">
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/head_0.svg" width="800" height="420" alt="head">
+    
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/head_0.svg" width="800" height="420" alt="head">
     
 </div>
 
 <div align="center">  
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_1.svg" width="520" height="60" alt="std">
+    
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_1.svg" width="520" height="60" alt="std">
     
 </div>
 
@@ -26,7 +28,8 @@
 </div>
     
 <div align="center">
-    <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_2.svg" width="520" height="60" alt="std">
+    
+<img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_2.svg" width="520" height="60" alt="std">
     
 </div>
 
