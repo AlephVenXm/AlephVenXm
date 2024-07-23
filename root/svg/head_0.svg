@@ -29,15 +29,15 @@
     Aleph
   </text>
 
-  <text x="20" y="225" font-size="50" fill="url(#freezeGradient)">
+  <text x="10" y="225" font-size="50" fill="url(#freezeGradient)">
     ✦
   </text>
   
-  <text x="60" y="235" font-size="70" font-family="Unbounded" fill="url(#flameGradient)">
+  <text x="50" y="235" font-size="70" font-family="Unbounded" fill="url(#flameGradient)">
     About Me
   </text>
 
-  <text x="480" y="225" font-size="50" fill="url(#freezeGradient)">
+  <text x="470" y="225" font-size="50" fill="url(#freezeGradient)">
     ✦
   </text>
 
