@@ -10,6 +10,7 @@
     
 </div>
 
+
 <div align="center">
 
 <code><img width="55" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
@@ -30,8 +31,9 @@
 <div align="center">
     
 <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_2.svg" width="520" height="60" alt="std">
-    
+
 </div>
+
 
 <div align="center">
 
