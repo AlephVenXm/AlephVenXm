@@ -13,7 +13,7 @@
     </linearGradient>
   </defs>
 
-  <text x="100" y="50" font-size="50" font-family="Unbounded" fill="url(#steelGradient)">
+  <text x="70" y="50" font-size="50" font-family="Unbounded" fill="url(#steelGradient)">
     I'm Working With
   </text>
 
