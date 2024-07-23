@@ -29,7 +29,7 @@
     Aleph
   </text>
 
-  <text x="20" y="215" font-size="30" fill="url(#freezeGradient)">
+  <text x="20" y="215" font-size="50" fill="url(#freezeGradient)">
     ✦
   </text>
   
@@ -37,7 +37,7 @@
     About Me
   </text>
 
-  <text x="480" y="215" font-size="30" fill="url(#freezeGradient)">
+  <text x="480" y="215" font-size="50" fill="url(#freezeGradient)">
     ✦
   </text>
 
