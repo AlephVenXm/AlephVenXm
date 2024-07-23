@@ -25,19 +25,6 @@
 <code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/asm86.png" alt="ASMx86" title="ASMx86"/></code>
 <code><img width="55" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Lua" title="Lua"/></code>
 
-<code><text>JavaScript</text></code>
-<code><text>HTML</text></code>
-<code><text>CSS</text></code>
-<code><text>C</text></code>
-<code><text>C++</text></code>
-<code><text>Fortran</text></code>
-<code><text>Java</text></code>
-<code><text>Rust</text></code>
-<code><text>Python</text></code>
-<code><text>Mojo</text></code>
-<code><text>ASMx86</text></code>
-<code><text>Lua</text></code>
-
 </div>
     
 <div align="center">
