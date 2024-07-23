@@ -1,5 +1,4 @@
 <svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
-    <text id="binaryString" x="10" y="30" font-family="Unbounded" font-size="20" fill="red"></text>
     <script type="text/javascript">
         <![CDATA[
             function generateRandomBinaryString(length) {
@@ -46,5 +45,6 @@
             updateString();
         ]]>
     </script>
+    <text id="binaryString" x="10" y="30" font-family="Unbounded" font-size="20" fill="red"></text>
 </svg>
 
