@@ -29,6 +29,10 @@
     Aleph
   </text>
 
+  <text x="10" y="160" font-size="150" fill="url(#freezeGradient)">
+    ✨
+  </text>
+  
   <text x="60" y="235" font-size="70" font-family="Unbounded" fill="url(#flameGradient)">
     About Me
   </text>
