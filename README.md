@@ -7,7 +7,6 @@
 <div align="center">  
     
 <img src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/svg/std_1.svg" width="520" height="60" alt="std">
-
     
 </div>
 
