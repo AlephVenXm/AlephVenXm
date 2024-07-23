@@ -37,4 +37,8 @@
     About Me
   </text>
 
+  <text x="500" y="215" font-size="30" fill="url(#freezeGradient)">
+    ֍
+  </text>
+
 </svg>
