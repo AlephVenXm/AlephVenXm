@@ -30,7 +30,7 @@
   </text>
 
   <text x="20" y="215" font-size="30" fill="url(#freezeGradient)">
-    ✧
+    ✦
   </text>
   
   <text x="60" y="235" font-size="70" font-family="Unbounded" fill="url(#flameGradient)">
@@ -38,7 +38,7 @@
   </text>
 
   <text x="480" y="215" font-size="30" fill="url(#freezeGradient)">
-    ✧
+    ✦
   </text>
 
 </svg>
