@@ -1,0 +1,36 @@
+<svg width="520" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flameGradient">
+      <stop offset="0%" stop-color="red">
+        <animate attributeName="stop-color" values="red;orange;yellow;red" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="orange">
+        <animate attributeName="stop-color" values="orange;yellow;red;orange" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="yellow">
+        <animate attributeName="stop-color" values="yellow;red;orange;yellow" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="freezeGradient">
+      <stop offset="0%" stop-color="blue">
+        <animate attributeName="stop-color" values="blue;cornflowerblue;lightskyblue;blue" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="cornflowerblue">
+        <animate attributeName="stop-color" values="cornflowerblue;lightskyblue;blue;cornflowerblue" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="lightskyblue">
+        <animate attributeName="stop-color" values="lightskyblue;blue;cornflowerblue;lightskyblue" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="10" y="130" font-size="150" font-family="Unbounded" fill="url(#flameGradient)">
+    Aleph
+  </text>
+
+  <text x="60" y="250" font-size="70" font-family="Unbounded" fill="url(#freezeGradient)">
+    About Me
+  </text>
+
+</svg>
