@@ -24,8 +24,9 @@
 <code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/%F0%9F%94%A5.png" alt="Mojo" title="Mojo"/></code>
 <code><img width="55" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/asm86.png" alt="ASMx86" title="ASMx86"/></code>
 <code><img width="55" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" alt="Lua" title="Lua"/></code>
-<code><text>123</text>
-</code>
+
+<code><text>123</text></code>
+<code><text>123</text></code>
 
 </div>
     
