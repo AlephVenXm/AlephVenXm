@@ -1,0 +1,55 @@
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+    <text class="wide" id="binaryString" x="10" y="30" font-family="Unbounded" font-size="20" fill="red"></text>
+    <style>
+        .wide {
+            text-align: justify;
+        }
+    </style>
+    <script type="text/javascript">
+        <![CDATA[
+            function generateRandomBinaryString(length) {
+                return Array.from({ length }, () => Math.floor(Math.random() * 2)).join('');
+            }
+
+            function updateString() {
+                if (!errorMode) {
+                    const binaryString = generateRandomBinaryString(15);
+                    document.getElementById('binaryString').textContent = binaryString;
+                }
+            }
+
+            function deviate() {
+                errorMode = true;
+                let binaryString = document.getElementById('binaryString').textContent;
+                setTimeout(() => {
+                    let middleIndex = Math.floor(binaryString.length / 2);
+                    binaryString = binaryString.substring(0, middleIndex - 2) + "ERROR" + binaryString.substring(middleIndex + 3);
+                    document.getElementById('binaryString').textContent = binaryString;
+                }, 1000);
+                setTimeout(() => {
+                    binaryString = "ERROR" + binaryString.substring(5);
+                    document.getElementById('binaryString').textContent = binaryString;
+                }, 2000);
+                setTimeout(() => {
+                    binaryString = binaryString.substring(0, binaryString.length - 5) + "ERROR";
+                    document.getElementById('binaryString').textContent = binaryString;
+                }, 3000);
+                setTimeout(() => {
+                    errorMode = false;
+                }, 8000);
+            }
+
+            let errorMode = false;
+
+            setInterval(() => {
+                if (!errorMode && Math.random() < 0.1) {
+                    deviate();
+                }
+            }, 1000);
+            setInterval(updateString, 1000);
+
+            updateString();
+        ]]>
+    </script>
+</svg>
+
