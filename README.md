@@ -39,6 +39,7 @@
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/google-tensorflow-icon.png" alt="TensorFlow" title="TensorFlow"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/PyTorch_Symbol_01_OrangeOnTransparent_nUWxXkQ.png" alt="PyTorch" title="PyTorch"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/cupy_logo_1000px.png" alt="CuPy" title="CuPy"/></code>
+<code><img width="90" src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" title="Numba"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/OpenCV_Logo_with_text.png" alt="OpenCV" title="OpenCV"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/512x512bb.png" alt="Ultralytics" title="Ultralytics"/></code>
 <code><img width="90" src="https://github.com/AlephVenXm/AlephVenXm/blob/main/root/channels4_profile.png" alt="RoboFlow" title="RoboFlow"/></code>
